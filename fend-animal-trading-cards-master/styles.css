@@ -1,0 +1,25 @@
+img {
+    width: 300px;
+}
+#italicized {
+    font-style: italic;
+}
+.list span {
+    font-weight: bold;
+}
+.padding {
+    padding: 23px;
+}
+.list {
+list-style-type: none;
+padding-left: 0px;
+}
+.border  {
+border: thin solid;
+}
+body {
+    width: 350px;
+}
+#margin {
+    margin: 15px;
+}
